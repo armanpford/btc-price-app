@@ -1,3 +1,5 @@
-fastapi
-uvicorn
-ccxt
+requests
+pytz
+ 
+
+
